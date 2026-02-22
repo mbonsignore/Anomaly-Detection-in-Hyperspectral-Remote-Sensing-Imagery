@@ -209,3 +209,4 @@ __marimo__/
 # ---- PyTorch checkpoints (ignore all models) ----
 *.pt
 *.pth
+*.tif
